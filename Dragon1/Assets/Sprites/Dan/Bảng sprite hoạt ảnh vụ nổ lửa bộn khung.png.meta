@@ -1,0 +1,1026 @@
+fileFormatVersion: 2
+guid: 818ed1ef82383d64e8b69f83f152feb2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1086935835849866927
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_0"
+  - first:
+      213: 2144620860527749427
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_1"
+  - first:
+      213: 4666270488479398896
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_2"
+  - first:
+      213: 4503942812438441769
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_3"
+  - first:
+      213: -1304286670937906093
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_4"
+  - first:
+      213: 5913645279892759927
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_5"
+  - first:
+      213: 2620207841859978554
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_6"
+  - first:
+      213: 1485310680868826568
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_7"
+  - first:
+      213: -7082859342657038045
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_8"
+  - first:
+      213: -1231584828213679318
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_9"
+  - first:
+      213: 6322943764801482253
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_10"
+  - first:
+      213: 8478881783756393795
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_11"
+  - first:
+      213: 9095129310632954262
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_12"
+  - first:
+      213: 2960244788220555979
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_13"
+  - first:
+      213: -501194504162823415
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_14"
+  - first:
+      213: 3176367026264694861
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_15"
+  - first:
+      213: -7272848514308660826
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_16"
+  - first:
+      213: -8502432977410695623
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_17"
+  - first:
+      213: 1490093047968635605
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_18"
+  - first:
+      213: -827065462635788442
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_19"
+  - first:
+      213: -3215396311529034260
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_20"
+  - first:
+      213: -2403376710740268650
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_21"
+  - first:
+      213: 558929474841345239
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_22"
+  - first:
+      213: 7080314544296719855
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_23"
+  - first:
+      213: 671825300437235382
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_24"
+  - first:
+      213: 2925288708927788483
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_25"
+  - first:
+      213: 2406182312205683986
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_26"
+  - first:
+      213: 7371990503008522720
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_27"
+  - first:
+      213: -6548480697472952433
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_28"
+  - first:
+      213: -3929311611145314082
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_29"
+  - first:
+      213: 667548466664998878
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_30"
+  - first:
+      213: -6419446606512571691
+    second: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+      khung_31"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_0"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 929
+        width: 81
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae39754262951f00800000000000000
+      internalID: 1086935835849866927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_1"
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 951
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33926a95f4933cd10800000000000000
+      internalID: 2144620860527749427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_2"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 949
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbf3bb494ce1c040800000000000000
+      internalID: 4666270488479398896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_3"
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 799
+        width: 251
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f21100028318e30800000000000000
+      internalID: 4503942812438441769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_4"
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 505
+        width: 1038
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3542875ee2e36ede0800000000000000
+      internalID: -1304286670937906093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_5"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 811
+        width: 177
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7756cabdc0d711250800000000000000
+      internalID: 5913645279892759927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_6"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 907
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35c1c35629dc5420800000000000000
+      internalID: 2620207841859978554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_7"
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 863
+        width: 35
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cda74ad132ec9410800000000000000
+      internalID: 1485310680868826568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_8"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 819
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329ded654f0a4bd90800000000000000
+      internalID: -7082859342657038045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_9"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1293
+        height: 816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b209bbf1888eee0800000000000000
+      internalID: -1231584828213679318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_10"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 783
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e63cb8adb9fb750800000000000000
+      internalID: 6322943764801482253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_11"
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 775
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d845d2f0a0ba570800000000000000
+      internalID: 8478881783756393795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_12"
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 779
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69945828be3683e70800000000000000
+      internalID: 9095129310632954262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_13"
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 788
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2761a63f6e41920800000000000000
+      internalID: 2960244788220555979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_14"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 775
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9033ffff0466b09f0800000000000000
+      internalID: -501194504162823415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_15"
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 785
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4065c43bf8b41c20800000000000000
+      internalID: 3176367026264694861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_16"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 773
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1a7673fc6a11b90800000000000000
+      internalID: -7272848514308660826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_17"
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 222
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e5ede314a410a80800000000000000
+      internalID: -8502432977410695623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_18"
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 67
+        width: 248
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da13767bbfdda410800000000000000
+      internalID: 1490093047968635605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_19"
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 91
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667899df75ca584f0800000000000000
+      internalID: -827065462635788442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_20"
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 0
+        width: 99
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cede53f271e9063d0800000000000000
+      internalID: -3215396311529034260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_21"
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 175
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69921ee7d9d75aed0800000000000000
+      internalID: -2403376710740268650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_22"
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 141
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcf9626567b1c700800000000000000
+      internalID: 558929474841345239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_23"
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 203
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe576de9094524260800000000000000
+      internalID: 7080314544296719855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_24"
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 143
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b67eaf1d8dc25900800000000000000
+      internalID: 671825300437235382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_25"
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 141
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c51a19f496b89820800000000000000
+      internalID: 2925288708927788483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_26"
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 113
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d09df701a746120800000000000000
+      internalID: 2406182312205683986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_27"
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 173
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e15063dd429e4660800000000000000
+      internalID: 7371990503008522720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_28"
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 15
+        width: 52
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f875f90408f1f15a0800000000000000
+      internalID: -6548480697472952433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_29"
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 89
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0add578e74879c0800000000000000
+      internalID: -3929311611145314082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_30"
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 17
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed78ce92bcb934900800000000000000
+      internalID: 667548466664998878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n
+        khung_31"
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 0
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da3b34b25b89e6a0800000000000000
+      internalID: -6419446606512571691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_0": 1086935835849866927
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_1": 2144620860527749427
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_10": 6322943764801482253
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_11": 8478881783756393795
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_12": 9095129310632954262
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_13": 2960244788220555979
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_14": -501194504162823415
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_15": 3176367026264694861
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_16": -7272848514308660826
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_17": -8502432977410695623
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_18": 1490093047968635605
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_19": -827065462635788442
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_2": 4666270488479398896
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_20": -3215396311529034260
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_21": -2403376710740268650
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_22": 558929474841345239
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_23": 7080314544296719855
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_24": 671825300437235382
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_25": 2925288708927788483
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_26": 2406182312205683986
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_27": 7371990503008522720
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_28": -6548480697472952433
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_29": -3929311611145314082
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_3": 4503942812438441769
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_30": 667548466664998878
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_31": -6419446606512571691
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_4": -1304286670937906093
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_5": 5913645279892759927
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_6": 2620207841859978554
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_7": 1485310680868826568
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_8": -7082859342657038045
+      "B\u1EA3ng sprite ho\u1EA1t \u1EA3nh v\u1EE5 n\u1ED5 l\u1EEDa b\u1ED9n khung_9": -1231584828213679318
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
